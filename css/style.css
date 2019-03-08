@@ -1,0 +1,32 @@
+body{
+	background-color: lightgrey;
+	font-family: Verdana;
+	background-color: #cd5c5c;
+}
+h1{
+	color: white;
+}
+.box{
+	background-color: white;
+	width: 500px;
+	height: 500px;
+	border: 3px solid black;
+}
+.div1{
+background-color: green;
+height: 227.5px;
+width: 480px;
+margin: 5px 5px 0px 5px;
+padding-top: 15px;
+padding-left: 10px;
+color: white;
+}
+.div2{
+background-color: red;
+height: 227.5px;
+width: 480px;
+margin: 5px 5px 5px 5px;
+padding-top: 15px;
+padding-left: 10px;
+color: white;
+}
